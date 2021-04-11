@@ -486,15 +486,6 @@ ideologies = [
         }
     },
     {
-        "name": "Pink Capitalism",
-        "stats": {
-            "econ": 10,
-            "dipl": 70,
-            "govt": 60,
-            "scty": 85
-        }
-    },
-    {
         "name": "Fordism",
         "stats": {
             "econ": 5,
